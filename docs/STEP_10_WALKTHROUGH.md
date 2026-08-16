@@ -6,18 +6,18 @@ This document provides the complete, transparent, and verified final status repo
 
 ## 1. Deployment Status
  
- - **Live Production URL**: [https://personal-portfolio-delta-neon.vercel.app](https://personal-portfolio-delta-neon.vercel.app)
- - **Codebase Source**: [https://github.com/dhanush200322/mock-portofilio-sqrock.git](https://github.com/dhanush200322/mock-portofilio-sqrock.git)
- - **Deployment Platform**: Vercel (Edge CDN & Serverless Prerendering)
- - **Deployment Readiness**: **100% Deployed & Live**
- - **Deployment Guide**: Available in [docs/DEPLOYMENT.md](file:///c:/Users/ro224/OneDrive/Desktop/personal-portfolio/docs/DEPLOYMENT.md)
+- **Live Production URL**: [https://personal-portfolio-three-wine-23.vercel.app](https://personal-portfolio-three-wine-23.vercel.app)
+- **Codebase Source**: [https://github.com/dhanush200322/mock-portofilio-sqrock.git](https://github.com/dhanush200322/mock-portofilio-sqrock.git)
+- **Deployment Platform**: Vercel (Edge CDN & Serverless Prerendering)
+- **Deployment Readiness**: **100% Deployed & Live**
+- **Deployment Guide**: Available in [docs/DEPLOYMENT.md](file:///c:/Users/ro224/OneDrive/Desktop/personal-portfolio/docs/DEPLOYMENT.md)
  
 ---
  
 ## 2. Production URL & Base URL Configuration
  
- - **Live Deployed URL**: [https://personal-portfolio-delta-neon.vercel.app](https://personal-portfolio-delta-neon.vercel.app)
- - **Configured Metadata Base URL**: `https://personal-portfolio-delta-neon.vercel.app`
+- **Live Deployed URL**: [https://personal-portfolio-three-wine-23.vercel.app](https://personal-portfolio-three-wine-23.vercel.app)
+- **Configured Metadata Base URL**: `https://personal-portfolio-three-wine-23.vercel.app`
 - **Configurable Environment Variable**: `NEXT_PUBLIC_SITE_URL` documented in `.env.example`
 - **Canonical Alternates**: `/`
 

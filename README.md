@@ -2,7 +2,7 @@
 
 A high-craft personal developer portfolio engineered as an interactive digital identity and systems showcase. Built with Next.js 16 (App Router), TypeScript, Tailwind CSS, Framer Motion, and Three.js.
 
-🔗 **Live Production URL**: [https://personal-portfolio-delta-neon.vercel.app](https://personal-portfolio-delta-neon.vercel.app)  
+🔗 **Live Production URL**: [https://personal-portfolio-three-wine-23.vercel.app](https://personal-portfolio-three-wine-23.vercel.app)  
 📦 **GitHub Repository**: [https://github.com/dhanush200322/mock-portofilio-sqrock.git](https://github.com/dhanush200322/mock-portofilio-sqrock.git)
 
 ---

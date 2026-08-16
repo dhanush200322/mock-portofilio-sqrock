@@ -10,7 +10,7 @@ export const contactData: ContactInfo = {
   github: 'https://github.com/dhanush-dev',
   linkedin: 'https://linkedin.com/in/dhanush-dev',
   twitter: 'https://x.com/dhanush_dev',
-  portfolio: 'https://personal-portfolio-delta-neon.vercel.app',
+  portfolio: 'https://personal-portfolio-three-wine-23.vercel.app',
   resumeUrl: '/resume/dhanush-resume.pdf',
   responseTime: '< 24 Hours',
   preferredWork: [

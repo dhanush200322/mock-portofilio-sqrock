@@ -5,7 +5,7 @@
 ## 1. Executive Summary & Project Metadata
 
 - **Project Name**: Dhanush // Developer Universe & Portfolio System
-- **Live Production URL**: [https://personal-portfolio-delta-neon.vercel.app](https://personal-portfolio-delta-neon.vercel.app)
+- **Live Production URL**: [https://personal-portfolio-three-wine-23.vercel.app](https://personal-portfolio-three-wine-23.vercel.app)
 - **Repository**: [https://github.com/dhanush200322/mock-portofilio-sqrock.git](https://github.com/dhanush200322/mock-portofilio-sqrock.git)
 - **Target Roles**: Full Stack Software Engineer / Senior Frontend Engineer / AI Systems Engineer
 - **Primary Tech Stack**:
