@@ -32,7 +32,7 @@ const contactChannels: ContactChannel[] = [
   {
     id: 'chan-linkedin',
     name: 'LinkedIn Network',
-    label: 'linkedin.com/in/dhanush-dev',
+    label: 'linkedin.com/in/dhanush-av',
     description: 'Professional career track, verified recommendations, and direct messaging.',
     href: contactData.linkedin,
     icon: <Icons.Linkedin className="w-5 h-5" />,
@@ -42,7 +42,7 @@ const contactChannels: ContactChannel[] = [
   {
     id: 'chan-github',
     name: 'GitHub Repositories',
-    label: 'github.com/dhanush-dev',
+    label: 'github.com/dhanush200322',
     description: 'Explore full-stack repositories, open-source tooling, and architecture blueprints.',
     href: contactData.github,
     icon: <Icons.Github className="w-5 h-5" />,

@@ -13,11 +13,11 @@ export const personalProfile: Profile = {
   ],
   location: 'Salem, India / Remote',
   email: 'dhanush.dev@example.com',
-  github: 'https://github.com/dhanush-dev',
-  linkedin: 'https://linkedin.com/in/dhanush-dev',
+  github: 'https://github.com/dhanush200322',
+  linkedin: 'https://www.linkedin.com/in/dhanush-av-618271378/',
   twitter: 'https://x.com/dhanush_dev',
   portfolio: 'https://personal-portfolio-three-wine-23.vercel.app',
-  resumeUrl: '/resume/dhanush-resume.pdf',
+  resumeUrl: 'https://drive.google.com/file/d/1m27RZXR6DjHGMMd8Q0dLEbBQRIYTvqmv/view?usp=drive_link',
   availability: {
     status: 'available',
     label: 'Available for high-impact opportunities',
@@ -45,17 +45,17 @@ export const personalProfile: Profile = {
 export const socialLinks: SocialLink[] = [
   {
     name: 'GitHub',
-    url: 'https://github.com/dhanush-dev',
+    url: 'https://github.com/dhanush200322',
     icon: 'Github',
     ariaLabel: 'View GitHub Profile',
-    username: '@dhanush-dev',
+    username: '@dhanush200322',
   },
   {
     name: 'LinkedIn',
-    url: 'https://linkedin.com/in/dhanush-dev',
+    url: 'https://www.linkedin.com/in/dhanush-av-618271378/',
     icon: 'Linkedin',
     ariaLabel: 'Connect on LinkedIn',
-    username: 'dhanush-dev',
+    username: 'dhanush-av-618271378',
   },
   {
     name: 'Twitter / X',

@@ -105,7 +105,8 @@ export function ResumeCTA() {
 
               <a
                 href={personalProfile.resumeUrl}
-                download="dhanush-resume.pdf"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="w-full sm:w-auto"
               >
                 <Button
@@ -114,7 +115,7 @@ export function ResumeCTA() {
                   leftIcon={<Download className="w-4 h-4" />}
                   className="w-full sm:w-auto justify-center"
                 >
-                  Download PDF
+                  Open in Google Drive
                 </Button>
               </a>
             </div>

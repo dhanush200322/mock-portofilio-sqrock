@@ -68,9 +68,9 @@ A high-craft personal developer portfolio engineered as an interactive digital i
 ## Direct Communication & Collaboration
 
 - **Email**: `dhanush.dev@example.com` (Direct mailto dispatch)
-- **LinkedIn**: [linkedin.com/in/dhanush-dev](https://linkedin.com/in/dhanush-dev)
-- **GitHub**: [github.com/dhanush-dev](https://github.com/dhanush-dev)
-- **Resume**: `/resume/dhanush-resume.pdf` (Interactive view & download)
+- **LinkedIn**: [linkedin.com/in/dhanush-av-618271378](https://www.linkedin.com/in/dhanush-av-618271378/)
+- **GitHub**: [github.com/dhanush200322](https://github.com/dhanush200322)
+- **Resume**: [Google Drive Resume Document](https://drive.google.com/file/d/1m27RZXR6DjHGMMd8Q0dLEbBQRIYTvqmv/view?usp=drive_link)
 - **Availability**: Available for Full-Time Engineering Roles & Strategic Contracting
 - **Response Time**: Typically < 24 Hours
 
