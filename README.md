@@ -7,6 +7,12 @@ A high-craft personal developer portfolio engineered as an interactive digital i
 
 ---
 
+## 🌌 Hero Section Preview
+
+![Hero Section Preview](./public/images/hero-preview.png)
+
+---
+
 ## Architecture & Roadmap Progress
 
 - [x] **STEP 1 — Foundation + Premium Design System**: Centralized tokens, design system, layout primitives, and strict TypeScript data architecture.
@@ -24,7 +30,7 @@ A high-craft personal developer portfolio engineered as an interactive digital i
 
 ## Production Readiness & Technical Audit
 
-- **Live Edge Deployment**: Hosted globally on Vercel Edge CDN ([https://personal-portfolio-delta-neon.vercel.app](https://personal-portfolio-delta-neon.vercel.app)).
+- **Live Edge Deployment**: Hosted globally on Vercel Edge CDN ([https://personal-portfolio-three-wine-23.vercel.app](https://personal-portfolio-three-wine-23.vercel.app)).
 - **SEO & Social Graph**: Schema.org `Person` and `WebSite` JSON-LD graph, dynamic 1200x630 OpenGraph image (`/opengraph-image`), automated XML sitemap (`/sitemap.xml`), and robots directive (`/robots.txt`).
 - **Performance & WebGL**: Strict Three.js memory management with explicit `cancelAnimationFrame` and buffer geometry disposal. Mobile performance tier reduces particle counts by 65%.
 - **Accessibility & Reduced Motion**: Complete `@media (prefers-reduced-motion: reduce)` support via `useReducedMotion()`, visible focus rings (`:focus-visible`), and ARIA tablists.
