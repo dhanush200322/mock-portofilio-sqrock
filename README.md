@@ -2,6 +2,9 @@
 
 A high-craft personal developer portfolio engineered as an interactive digital identity and systems showcase. Built with Next.js 16 (App Router), TypeScript, Tailwind CSS, Framer Motion, and Three.js.
 
+🔗 **Live Production URL**: [https://personal-portfolio-delta-neon.vercel.app](https://personal-portfolio-delta-neon.vercel.app)  
+📦 **GitHub Repository**: [https://github.com/dhanush200322/mock-portofilio-sqrock.git](https://github.com/dhanush200322/mock-portofilio-sqrock.git)
+
 ---
 
 ## Architecture & Roadmap Progress
@@ -15,13 +18,14 @@ A high-craft personal developer portfolio engineered as an interactive digital i
 - [x] **STEP 7 — Contact + Resume + Conversion Experience**: Live availability & response rate indicator, 3D magnetic contact card, verified direct communication channels, collaboration pathways, interactive intent dispatcher, and structured resume preview.
 - [x] **STEP 8 — Final 3D/Parallax + Visual Master Polish**: GPU scroll progress bar, custom trailing spring cursor, clamped magnetic buttons, layered horizontal parallax typography streams, and engineering HUD background grid.
 - [x] **STEP 9 — SEO + Performance + Accessibility + Production Audit**: Schema.org JSON-LD structured data, dynamic OpenGraph edge card, sitemap.xml, robots.txt, 100% 60fps WebGL lifecycle safety, and 0 security vulnerabilities.
-- [ ] **STEP 10 — Production Deployment + Final Launch** *(Final)*
+- [x] **STEP 10 — Production Deployment + Final Launch**: Deployed live to Vercel edge CDN with automated CI/CD and verified static rendering across all routes.
 
 ---
 
 ## Production Readiness & Technical Audit
 
-- **SEO & Social Graph**: Schema.org `Person` and `WebSite` JSON-LD graph, edge dynamic 1200x630 OpenGraph image (`/opengraph-image`), automated XML sitemap (`/sitemap.xml`), and robots directive (`/robots.txt`).
+- **Live Edge Deployment**: Hosted globally on Vercel Edge CDN ([https://personal-portfolio-delta-neon.vercel.app](https://personal-portfolio-delta-neon.vercel.app)).
+- **SEO & Social Graph**: Schema.org `Person` and `WebSite` JSON-LD graph, dynamic 1200x630 OpenGraph image (`/opengraph-image`), automated XML sitemap (`/sitemap.xml`), and robots directive (`/robots.txt`).
 - **Performance & WebGL**: Strict Three.js memory management with explicit `cancelAnimationFrame` and buffer geometry disposal. Mobile performance tier reduces particle counts by 65%.
 - **Accessibility & Reduced Motion**: Complete `@media (prefers-reduced-motion: reduce)` support via `useReducedMotion()`, visible focus rings (`:focus-visible`), and ARIA tablists.
 - **Security & Dependency Health**: `npm audit` verified with 0 vulnerabilities and 100% static prerendering.
